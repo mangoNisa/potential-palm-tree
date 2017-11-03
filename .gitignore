@@ -9,6 +9,9 @@
 !/Assets/Materials
 !/Assets/Scripts
 !/Assets/Textures
+!/Assets/Scenes
+!/Assets/Scripts
+!/Assets/Audio
 
 # Visual Studio 2015 cache directory
 /.vs/
